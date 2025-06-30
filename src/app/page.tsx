@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main
       style={{
-        backgroundColor: theme.colors.neutral.lighter,
+        backgroundColor: theme.colors.neutral.lightest,
         minHeight: '100vh',
         display: 'flex',
         alignItems: 'center',
